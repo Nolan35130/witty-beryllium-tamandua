@@ -1,0 +1,3 @@
+config:
+  pulumi:template: helm-kubernetes-python
+  witty-beryllium-tamandua:k8sNamespace: nginx-ingress
